@@ -1,66 +1,67 @@
 # Estudo de HTML e CSS
 
-Repositório dedicado aos meus estudos e praticas em HTML5 e CSS3. Neste projeto estão organizados exercícios, desafios e pequenos exemplos que acompanham meu aprendizado em desenvolvimento web.
+Repositório dedicado aos meus estudos e práticas em HTML5 e CSS3. Neste projeto estão organizados exercícios, desafios e pequenos projetos práticos que acompanham a evolução do meu aprendizado em desenvolvimento web.
 
-## Estrutura do repositório
+## Estrutura do Repositório
 
 ```text
 Estudo-de-HTML-CSS/
 ├── README.md
 ├── EXERCICIOS/
-│   ├── EX001/
-│   │   └── index.html
-│   ├── ex002/
-│   │   ├── index.html
-│   │   └── teste.md
-│   ├── ex003/
-│   │   ├── index.html
-│   │   └── imagens/
-│   ├── ex004/
-│   ├── ex006/
-│   ├── ex007/
-│   ├── ex008/
-│   ├── ex009/
-│   └── Desafios/
-│       ├── desafio1/
-│       │   ├── Desafio.html
-│       │   ├── icone-github.png
-│       │   ├── icone-linkedin.png
-│       │   └── 44c2536e-d039-403b-89ff-590d2d8c8ae9.jpg
-│       └── desafio2/
-│           └── desafio2.html
+│   ├── README.md
+│   ├── ex001/          # Primeiro exercício de página HTML
+│   ├── ex002/          # Parágrafos, quebras de linha (<p>, <br>), caracteres especiais e emojis
+│   ├── ex003/          # Inserção e organização de imagens locais e externas
+│   ├── ex004/          # Ícone de favoritos (favicon)
+│   ├── ex006/          # Hierarquia de títulos (h1 a h6)
+│   ├── ex007/          # Semântica na web (tags com significado estrutural)
+│   ├── ex008/          # Formatação básica de texto (negrito, itálico, texto marcado, etc.)
+│   ├── ex008b/         # Outras formatações (código-fonte <pre>/<code>, citações e abreviações)
+│   ├── ex009b/         # Listas ordenadas (<ol>), não ordenadas (<ul>) e de definição (<dl>)
+│   ├── ex010/          # Links internos, externos e downloads (PDF e ZIP)
+│   ├── ex011/          # Imagens dinâmicas/responsivas (<picture>) e áudio (<audio>)
+│   ├── ex012/          # Vídeos locais (<video>) e incorporação de vídeos do YouTube (<iframe>)
+│   ├── ex013/          # Primeiros passos com CSS (estilos inline)
+│   ├── desafio2/       # Desafio prático de navegação com vídeos
+│   └── Desafios/       # Desafios de fixação (desafio 1: perfil social / desafio 2)
 ```
 
-## Objetivo
+## Conteúdos e Conceitos Estudados
 
-Registrar a evolução do aprendizado em HTML e CSS, revisando conceitos como:
+- **Estrutura básica e Semântica**: Tags estruturais do HTML5, metadados (`<meta>`), título e favicons.
+- **Formatação e Tipografia**: Parágrafos, cabeçalhos (`h1` a `h6`), ênfase (`<strong>`, `<em>`), marcação de texto, código (`<code>`, `<pre>`), citações (`<q>`, `<blockquote>`) e abreviações (`<abbr>`).
+- **Listas**: Listas ordenadas (`<ol>`), listas com marcadores (`<ul>`), listas de definição (`<dl>`) e listas aninhadas.
+- **Links e Navegação**: Links absolutos e relativos, abertura em nova aba (`target="_blank"`), âncoras de navegação interna e download de arquivos.
+- **Mídias em HTML5**:
+  - Imagens adaptativas para diferentes resoluções de tela usando `<picture>` e `<source>`.
+  - Áudio nos formatos MP3, OGG e WAV com controles nativos via tag `<audio>`.
+  - Vídeos hospedados localmente com múltiplos formatos via `<video>`.
+  - Incorporação externa de vídeos com `<iframe>` do YouTube e boas práticas de permissões.
+- **Introdução ao CSS**: Primeiros conceitos de estilização visual utilizando estilos inline (`style="..."`).
+- **Desafios Práticos**: Projetos para consolidar a integração entre links, mídias e navegação.
 
-- estrutura de páginas
-- semântica
-- formatação de texto
-- listas e links
-- imagens e mídias
-- layouts básicos
-- desafios práticos de front-end
-
-## Como visualizar
+## Como Visualizar os Exercícios
 
 1. Clone o repositório:
-
 ```bash
 git clone https://github.com/lc411/Estudo-de-HTML-CSS.git
 ```
 
-2. Abra a pasta desejada no VS Code.
+2. Abra o diretório no VS Code:
+```bash
+code Estudo-de-HTML-CSS
+```
 
-3. Execute a página em um navegador, usando a extensão Live Server ou abrindo diretamente o arquivo HTML.
+3. Abra o arquivo desejado no navegador:
+   - Recomendado: Utilize a extensão **Live Server** no VS Code clicando com o botão direito no arquivo `.html` e selecionando **Open with Live Server**.
+   - Ou abra o arquivo `.html` diretamente com dois cliques no navegador de sua preferência.
 
-## Tecnologias utilizadas
+## Tecnologias e Ferramentas
 
-- HTML5
-- CSS3
-- Git e GitHub
+- **HTML5** (Semântica, Mídias, Estrutura)
+- **CSS3** (Estilização)
+- **Git e GitHub** (Controle de versão e portfólio)
+- **VS Code** (Editor de código)
 
-## Observação
-
-Este projeto serve como um portfólio de estudo e evolução prática com HTML e CSS, com foco em exercícios e desafios do curso de desenvolvimento web.
+---
+*Repositório mantido para fins de estudo contínuo.*

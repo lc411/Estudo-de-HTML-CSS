@@ -22,6 +22,8 @@ Estudo-de-HTML-CSS/
 │   ├── ex011/          # Imagens dinâmicas/responsivas (<picture>) e áudio (<audio>)
 │   ├── ex012/          # Vídeos locais (<video>) e incorporação de vídeos do YouTube (<iframe>)
 │   ├── ex013/          # Primeiros passos com CSS (estilos inline)
+│   ├── ex014/          # Estilos locais/internos (tag <style> no <head>)
+│   ├── ex015/          # Estilos externos (arquivo .css separado com <link rel="stylesheet">)
 │   ├── desafio2/       # Desafio prático de navegação com vídeos
 │   └── Desafios/       # Desafios de fixação (desafio 1: perfil social / desafio 2)
 ```
@@ -37,7 +39,7 @@ Estudo-de-HTML-CSS/
   - Áudio nos formatos MP3, OGG e WAV com controles nativos via tag `<audio>`.
   - Vídeos hospedados localmente com múltiplos formatos via `<video>`.
   - Incorporação externa de vídeos com `<iframe>` do YouTube e boas práticas de permissões.
-- **Introdução ao CSS**: Primeiros conceitos de estilização visual utilizando estilos inline (`style="..."`).
+- **Introdução ao CSS**: Evolução das formas de estilização — estilos inline (`style="..."`), estilos internos/locais (`<style>`) e estilos externos modulares (`<link rel="stylesheet">`) compartilhados entre páginas.
 - **Desafios Práticos**: Projetos para consolidar a integração entre links, mídias e navegação.
 
 ## Como Visualizar os Exercícios

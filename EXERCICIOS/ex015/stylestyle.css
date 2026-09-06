@@ -1,0 +1,16 @@
+
+        body {
+            background-color: bisque;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 20px;
+        }
+        h1 {
+            color: crimson;
+            background-color: brown;
+        }
+        h2 {
+            color: brown;
+        }
+        p {
+            text-align: justify;
+        }

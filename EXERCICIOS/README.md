@@ -17,6 +17,8 @@ Esta pasta reúne os exercícios práticos e desafios realizados durante o estud
 - **`ex011/`**: Mídias em HTML5 — Imagens dinâmicas/responsivas usando `<picture>` / `<source>` e inserção de áudio nativo com a tag `<audio>`.
 - **`ex012/`**: Vídeos em HTML5 — Reprodução de vídeos locais (`<video>`) com formatos alternativos e incorporação externa do YouTube via `<iframe>` (com tratamento de restrições de exibição).
 - **`ex013/`**: Primeiros passos em CSS — Aplicação de estilos inline diretamente nos elementos HTML.
+- **`ex014/`**: Estilos locais e internos — Utilização da tag `<style>` dentro da tag `<head>`.
+- **`ex015/`**: Estilos externos — Separação de responsabilidades criando arquivo externo `.css` importado com `<link rel="stylesheet">` e compartilhado entre páginas (`index.html` e `pagina02.html`).
 - **`desafio2/` e `Desafios/`**: Desafios práticos integrando páginas, links, imagens e navegação de vídeos.
 
 ## Objetivo

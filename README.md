@@ -24,6 +24,9 @@ Estudo-de-HTML-CSS/
 │   ├── ex013/          # Primeiros passos com CSS (estilos inline)
 │   ├── ex014/          # Estilos locais/internos (tag <style> no <head>)
 │   ├── ex015/          # Estilos externos (arquivo .css separado com <link rel="stylesheet">)
+│   ├── ex016/          # Cores no CSS: paletas, gradientes (linear-gradient), box-shadow e border-radius
+│   ├── ex017/          # Tipografia e fontes: famílias tipográficas e medidas absolutas/relativas (px, em)
+│   ├── ex018/          # Fontes personalizadas: Google Fonts (@import) e fontes externas baixadas (@font-face)
 │   ├── desafio2/       # Desafio prático de navegação com vídeos
 │   └── Desafios/       # Desafios de fixação (desafio 1: perfil social / desafio 2)
 ```
@@ -31,7 +34,7 @@ Estudo-de-HTML-CSS/
 ## Conteúdos e Conceitos Estudados
 
 - **Estrutura básica e Semântica**: Tags estruturais do HTML5, metadados (`<meta>`), título e favicons.
-- **Formatação e Tipografia**: Parágrafos, cabeçalhos (`h1` a `h6`), ênfase (`<strong>`, `<em>`), marcação de texto, código (`<code>`, `<pre>`), citações (`<q>`, `<blockquote>`) e abreviações (`<abbr>`).
+- **Formatação e Tipografia Básica**: Parágrafos, cabeçalhos (`h1` a `h6`), ênfase (`<strong>`, `<em>`), marcação de texto, código (`<code>`, `<pre>`), citações (`<q>`, `<blockquote>`) e abreviações (`<abbr>`).
 - **Listas**: Listas ordenadas (`<ol>`), listas com marcadores (`<ul>`), listas de definição (`<dl>`) e listas aninhadas.
 - **Links e Navegação**: Links absolutos e relativos, abertura em nova aba (`target="_blank"`), âncoras de navegação interna e download de arquivos.
 - **Mídias em HTML5**:
@@ -40,6 +43,8 @@ Estudo-de-HTML-CSS/
   - Vídeos hospedados localmente com múltiplos formatos via `<video>`.
   - Incorporação externa de vídeos com `<iframe>` do YouTube e boas práticas de permissões.
 - **Introdução ao CSS**: Evolução das formas de estilização — estilos inline (`style="..."`), estilos internos/locais (`<style>`) e estilos externos modulares (`<link rel="stylesheet">`) compartilhados entre páginas.
+- **Cores e Efeitos Visuais**: Modelos de cores (nomes, HEX, RGB, HSL), criação de gradientes (`linear-gradient`), sombras em caixas (`box-shadow`), sombras em textos (`text-shadow`) e arredondamento de cantos (`border-radius`).
+- **Tipografia Avançada e Fontes Personalizadas**: Medidas absolutas e relativas (`px`, `em`), famílias seguras, integração com o catálogo do **Google Fonts** via `@import` e carregamento de fontes locais externas com `@font-face` (arquivos `.ttf`/`.otf`).
 - **Desafios Práticos**: Projetos para consolidar a integração entre links, mídias e navegação.
 
 ## Como Visualizar os Exercícios

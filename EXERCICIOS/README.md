@@ -19,6 +19,9 @@ Esta pasta reúne os exercícios práticos e desafios realizados durante o estud
 - **`ex013/`**: Primeiros passos em CSS — Aplicação de estilos inline diretamente nos elementos HTML.
 - **`ex014/`**: Estilos locais e internos — Utilização da tag `<style>` dentro da tag `<head>`.
 - **`ex015/`**: Estilos externos — Separação de responsabilidades criando arquivo externo `.css` importado com `<link rel="stylesheet">` e compartilhado entre páginas (`index.html` e `pagina02.html`).
+- **`ex016/`**: Cores e Efeitos — Métodos de declaração de cores (HEX, RGB, HSL), criação de gradientes lineares (`linear-gradient`), sombras em caixas (`box-shadow`), sombras de texto (`text-shadow`) e cantos arredondados (`border-radius`).
+- **`ex017/`**: Tipografia — Famílias de fontes tipográficas (`font-family`), medidas absolutas e relativas (`px`, `em`, `rem`), pesos (`font-weight`) e alinhamento de textos.
+- **`ex018/`**: Fontes Personalizadas — Integração com o catálogo do **Google Fonts** através de `@import url(...)` e importação de fontes externas locais via `@font-face` com formatos `.ttf`/`.otf`.
 - **`desafio2/` e `Desafios/`**: Desafios práticos integrando páginas, links, imagens e navegação de vídeos.
 
 ## Objetivo

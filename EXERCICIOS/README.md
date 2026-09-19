@@ -20,8 +20,10 @@ Esta pasta reúne os exercícios práticos e desafios realizados durante o estud
 - **`ex014/`**: Estilos locais e internos — Utilização da tag `<style>` dentro da tag `<head>`.
 - **`ex015/`**: Estilos externos — Separação de responsabilidades criando arquivo externo `.css` importado com `<link rel="stylesheet">` e compartilhado entre páginas (`index.html` e `pagina02.html`).
 - **`ex016/`**: Cores e Efeitos — Métodos de declaração de cores (HEX, RGB, HSL), criação de gradientes lineares (`linear-gradient`), sombras em caixas (`box-shadow`), sombras de texto (`text-shadow`) e cantos arredondados (`border-radius`).
-- **`ex017/`**: Tipografia — Famílias de fontes tipográficas (`font-family`), medidas absolutas e relativas (`px`, `em`, `rem`), pesos (`font-weight`) e alinhamento de textos.
+- **`ex017/`**: Tipografia e Alinhamentos — Famílias de fontes (`font-family`), medidas absolutas e relativas (`px`, `em`, `rem`), pesos (`font-weight`), alinhamentos de texto (`text-align: center/right/justify`) e indentação (`text-indent`).
 - **`ex018/`**: Fontes Personalizadas — Integração com o catálogo do **Google Fonts** através de `@import url(...)` e importação de fontes externas locais via `@font-face` com formatos `.ttf`/`.otf`.
+- **`ex019/`**: Seletores Personalizados — Utilização de IDs (`#`) para identificação de elementos únicos, Classes (`.`) para estilização reutilizável em múltiplos elementos e seletores compostos (`h1#principal`).
+- **`ex020/`**: Pseudo-classes e Pseudo-elementos — Estilização interativa baseada em estados (`:hover`, `:visited`, `:active`), criação de caixas com transição/revelação e inserção de marcadores automáticos via pseudo-elemento `::after`.
 - **`desafio2/` e `Desafios/`**: Desafios práticos integrando páginas, links, imagens e navegação de vídeos.
 
 ## Objetivo

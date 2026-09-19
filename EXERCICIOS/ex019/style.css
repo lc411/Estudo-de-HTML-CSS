@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* 
+    em HRML é id = em CSS é # (só pode um elemento)
+    em HTML é class = em css mé . (pode mais de um elemento)
+*/
+
+body {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+h1#principal {
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: white;
+}
+
+.basico {
+    color: blue;
+}
+
+.intermediario {
+    color: blueviolet;
+}
+
+.avancado {
+    color: rgb(255, 0, 242);
+}

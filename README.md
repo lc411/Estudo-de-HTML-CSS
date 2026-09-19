@@ -25,8 +25,10 @@ Estudo-de-HTML-CSS/
 │   ├── ex014/          # Estilos locais/internos (tag <style> no <head>)
 │   ├── ex015/          # Estilos externos (arquivo .css separado com <link rel="stylesheet">)
 │   ├── ex016/          # Cores no CSS: paletas, gradientes (linear-gradient), box-shadow e border-radius
-│   ├── ex017/          # Tipografia e fontes: famílias tipográficas e medidas absolutas/relativas (px, em)
+│   ├── ex017/          # Tipografia, fontes e alinhamentos de texto (text-align, text-indent)
 │   ├── ex018/          # Fontes personalizadas: Google Fonts (@import) e fontes externas baixadas (@font-face)
+│   ├── ex019/          # Seletores personalizados em CSS: uso de ID (#) e Classes (.)
+│   ├── ex020/          # Pseudo-classes (:hover, :visited, :active) e pseudo-elementos (::after)
 │   ├── desafio2/       # Desafio prático de navegação com vídeos
 │   └── Desafios/       # Desafios de fixação (desafio 1: perfil social / desafio 2)
 ```
@@ -44,7 +46,9 @@ Estudo-de-HTML-CSS/
   - Incorporação externa de vídeos com `<iframe>` do YouTube e boas práticas de permissões.
 - **Introdução ao CSS**: Evolução das formas de estilização — estilos inline (`style="..."`), estilos internos/locais (`<style>`) e estilos externos modulares (`<link rel="stylesheet">`) compartilhados entre páginas.
 - **Cores e Efeitos Visuais**: Modelos de cores (nomes, HEX, RGB, HSL), criação de gradientes (`linear-gradient`), sombras em caixas (`box-shadow`), sombras em textos (`text-shadow`) e arredondamento de cantos (`border-radius`).
-- **Tipografia Avançada e Fontes Personalizadas**: Medidas absolutas e relativas (`px`, `em`), famílias seguras, integração com o catálogo do **Google Fonts** via `@import` e carregamento de fontes locais externas com `@font-face` (arquivos `.ttf`/`.otf`).
+- **Tipografia Avançada e Alinhamentos**: Medidas absolutas e relativas (`px`, `em`), famílias seguras, alinhamentos (`text-align: center/right/justify`, `text-indent`), catálogo do **Google Fonts** via `@import` e carregamento de fontes locais externas com `@font-face`.
+- **Seletores Personalizados no CSS**: Diferenciação e boas práticas no uso de identificadores (`id` com `#`, exclusivo por elemento) e classes reutilizáveis (`class` com `.`), além de seletores compostos.
+- **Pseudo-classes e Pseudo-elementos**: Estilização interativa com base em estados do usuário (`:hover`, `:visited`, `:active`), transições e inserção de conteúdo textual decorativo com pseudo-elementos (`::after`).
 - **Desafios Práticos**: Projetos para consolidar a integração entre links, mídias e navegação.
 
 ## Como Visualizar os Exercícios

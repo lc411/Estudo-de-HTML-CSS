@@ -76,3 +76,10 @@ code Estudo-de-HTML-CSS
 
 ---
 *Repositório mantido para fins de estudo contínuo.*
+
+
+## Site publicado no GitHub Pages
+
+O desafio **Como surgiu o mascote do Android** está disponível [neste link](https://lc411.github.io/Estudo-de-HTML-CSS/EXERCICIOS/Desafios/d010/android.html).
+
+O GitHub Pages publica automaticamente os arquivos da branch `main`, a partir da raiz do repositório (`/`).

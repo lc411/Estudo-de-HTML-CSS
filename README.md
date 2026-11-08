@@ -82,8 +82,9 @@ code Estudo-de-HTML-CSS
 
 ## Site publicado no GitHub Pages
 
-O desafio **Como surgiu o mascote do Android** está disponível [neste link](https://lc411.github.io/Estudo-de-HTML-CSS/EXERCICIOS/Desafios/d010/android.html).
+Os projetos abaixo estão publicados no GitHub Pages e podem ser acessados diretamente pelo navegador:
 
-O projeto **Os Chapéus de Palha** está disponível [neste link](https://lc411.github.io/Estudo-de-HTML-CSS/EXERCICIOS/testeOP/).
+- [Como surgiu o mascote do Android](https://lc411.github.io/Estudo-de-HTML-CSS/EXERCICIOS/Desafios/d010/android.html)
+- [Os Chapéus de Palha](https://lc411.github.io/Estudo-de-HTML-CSS/EXERCICIOS/testeOP/)
 
-O GitHub Pages publica automaticamente os arquivos da branch `main`, a partir da raiz do repositório (`/`).
+O GitHub Pages publica automaticamente os arquivos da branch `main`, a partir da raiz do repositório (`/`). Para publicar um novo projeto, adicione seus arquivos ao repositório e inclua o link nesta lista.

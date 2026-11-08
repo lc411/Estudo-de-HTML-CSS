@@ -30,7 +30,8 @@ Estudo-de-HTML-CSS/
 │   ├── ex019/          # Seletores personalizados em CSS: uso de ID (#) e Classes (.)
 │   ├── ex020/          # Pseudo-classes (:hover, :visited, :active) e pseudo-elementos (::after)
 │   ├── desafio2/       # Desafio prático de navegação com vídeos
-│   └── Desafios/       # Desafios de fixação (desafio 1: perfil social / desafio 2)
+│   ├── Desafios/       # Desafios de fixação (desafio 1: perfil social / desafio 2)
+│   └── testeOP/        # Página responsiva sobre os Chapéus de Palha, com tema claro/escuro
 ```
 
 ## Conteúdos e Conceitos Estudados
@@ -49,6 +50,7 @@ Estudo-de-HTML-CSS/
 - **Tipografia Avançada e Alinhamentos**: Medidas absolutas e relativas (`px`, `em`), famílias seguras, alinhamentos (`text-align: center/right/justify`, `text-indent`), catálogo do **Google Fonts** via `@import` e carregamento de fontes locais externas com `@font-face`.
 - **Seletores Personalizados no CSS**: Diferenciação e boas práticas no uso de identificadores (`id` com `#`, exclusivo por elemento) e classes reutilizáveis (`class` com `.`), além de seletores compostos.
 - **Pseudo-classes e Pseudo-elementos**: Estilização interativa com base em estados do usuário (`:hover`, `:visited`, `:active`), transições e inserção de conteúdo textual decorativo com pseudo-elementos (`::after`).
+- **Temas com CSS e JavaScript**: Alternância entre modo claro e escuro com variáveis CSS, atributo `data-theme` e preferência persistida no `localStorage`.
 - **Desafios Práticos**: Projetos para consolidar a integração entre links, mídias e navegação.
 
 ## Como Visualizar os Exercícios
@@ -81,5 +83,7 @@ code Estudo-de-HTML-CSS
 ## Site publicado no GitHub Pages
 
 O desafio **Como surgiu o mascote do Android** está disponível [neste link](https://lc411.github.io/Estudo-de-HTML-CSS/EXERCICIOS/Desafios/d010/android.html).
+
+O projeto **Os Chapéus de Palha** está disponível [neste link](https://lc411.github.io/Estudo-de-HTML-CSS/EXERCICIOS/testeOP/).
 
 O GitHub Pages publica automaticamente os arquivos da branch `main`, a partir da raiz do repositório (`/`).
